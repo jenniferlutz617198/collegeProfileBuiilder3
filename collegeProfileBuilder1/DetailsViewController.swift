@@ -10,7 +10,7 @@ import UIKit
 
 class DetailsViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
-    
+    var collegeLocationArray = String()
     var newCollege = College()
     var website = String()
     var picker = UIImagePickerController()
@@ -37,10 +37,8 @@ class DetailsViewController: UIViewController, UIImagePickerControllerDelegate, 
     }
     
     
-    @IBAction func onButtonPressed(sender: UIButton) {
         
-        
-    }
+    
     
     
     

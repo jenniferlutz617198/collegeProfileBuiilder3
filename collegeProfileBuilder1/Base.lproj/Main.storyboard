@@ -143,7 +143,6 @@
                                 <rect key="frame" x="497" y="263" width="46" height="30"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
-                                    <action selector="onButtonPressed:" destination="gIo-OK-XhT" eventType="touchUpInside" id="Fch-nH-abJ"/>
                                     <segue destination="ffa-Dg-QgC" kind="show" identifier="mapSegue" id="dVR-JV-TMZ"/>
                                 </connections>
                             </button>
